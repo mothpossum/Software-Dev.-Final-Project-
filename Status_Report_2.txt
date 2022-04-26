@@ -1,0 +1,15 @@
+
+What have I completed?
+
+	So far I have completed the intital steps for the user to comeplete, those being picking out what package and genre the user wants. 
+	I have also defined all of my varaibles.
+
+
+Next Steps?
+
+	My next step, I want to create the list of video games that the program will choose from. I need an action games list and a chill games list.
+
+
+Problems:
+
+	So far I haven't had any problems. I do think I need help on how to create the lists and what would be the best way of importing them to my python code. 
