@@ -1,0 +1,13 @@
+1.) When starting the application the user will 
+	be promted to choose a video game package
+    The packages include [2, 3, 5] please select one of
+	these numbers, else user will recieve an error.
+
+2.) After choosing package user will be asked to choose genre.
+	This will decide what list of games the program pulls from.
+    Genres include [Chill and Action] make sure the spelling and 
+	capatalization is correct or user will recieve another error.
+
+3.) User will recieve a list of games dependant on the number and genre
+	they picked.
+
